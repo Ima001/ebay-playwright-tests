@@ -4,16 +4,16 @@ This project is an automated UI test suite using [Playwright](https://playwright
 
 ---
 
-## 🔍 Overview
+ Overview
 
 The test suite covers functional, UI, and edge case validations for related product suggestions shown below a selected eBay product.
 
-### ✅ Tested Product:
+ Tested Product:
 [Mens RFID Blocking Leather Wallet Credit Card ID Holder](https://www.ebay.com/itm/364748865269)
 
 ---
 
-## 🧪 Test Cases
+ Test Cases
 
 | TC ID  | Description                                               | Type       |
 |--------|-----------------------------------------------------------|------------|
